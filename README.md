@@ -1,5 +1,5 @@
 # Spam-Classification
-# It will classifie the mails as spam and not spam based upon the text which will help us to detect the spam mails and reduce our time to watch unneccessary mails
+# It will classify the mails as spam and not spam based upon the text which will help us to detect the spam mails and reduce our time to watch unneccessary mails
 
 # code starts for here
 # import dataset 
